@@ -1,4 +1,4 @@
-#include "/Header/bus.h"
+#include "bus.h"
 
 bus::bus(){
     for (auto &i : ram) i = 0x00;
